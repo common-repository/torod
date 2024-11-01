@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cf5bd740-8e95-41aa-ab11-b0d7f01624cd" name="korkmazweb" url="http://94.199.200.251">
+        <fileTransfer rootFolder="/wp-content/plugins/torod_mmar" host="94.199.200.251" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
